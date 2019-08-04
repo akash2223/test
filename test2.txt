@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 This is another test2 file.
-=======
+
 This is test2 file.
->>>>>>> test-demo
+
