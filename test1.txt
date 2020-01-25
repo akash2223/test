@@ -1,3 +1,0 @@
-This is test1 file.
-
-commit on 25 Jan 2020
